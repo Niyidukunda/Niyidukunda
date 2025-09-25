@@ -20,6 +20,11 @@
 ### **LMS Platform Developer & Technical Facilitator**
 **Daily work:** Building and maintaining learning management systems while teaching **coding and robotics** to students from remote and underserved backgrounds.
 
+<div align="center">
+<img src="images/server-side-LMS-list-of-published-courses.png" alt="LMS Course Management Interface" width="800"/>
+<p><em>Server-side LMS interface showing published coding and robotics courses I've developed and maintain</em></p>
+</div>
+
 **Technical responsibilities:**
 - Develop and maintain LMS platform architecture
 - Build educational content delivery systems
@@ -27,11 +32,21 @@
 - Collaborate on group educational repositories
 - Ensure platform reliability for distributed learning
 
+<div align="center">
+<img src="images/integration-with-google-classroom.png" alt="Google Classroom Integration" width="600"/>
+<p><em>Google Classroom integration for seamless learning management across platforms</em></p>
+</div>
+
 **Teaching responsibilities:**
 - Facilitate coding courses for remote students
 - Create interactive learning modules and exercises
 - Bridge complex technical concepts for beginners
 - Support students with diverse technical backgrounds
+
+<div align="center">
+<img src="images/online-session-demo.gif" alt="Live Online Teaching Session" width="700"/>
+<p><em>Live coding session demonstrating interactive teaching methodology for remote students</em></p>
+</div>
 
 **Real-world insight:** This combination gives me unique perspective on what educators and students actually need from learning platforms - not just what sounds good in requirements docs.
 
@@ -48,6 +63,11 @@
 - **Network Engineering Mindset**: I build platforms that work reliably in challenging conditions
 - **Full-Stack Capabilities**: I can handle everything from database optimization to user interface design
 - **Teaching Communication Skills**: I can explain technical concepts to both developers and educators
+
+<div align="center">
+<img src="images/team-collaboration.png" alt="Collaborative EdTech Development" width="700"/>
+<p><em>Team collaboration on educational platform development - combining technical expertise with pedagogical insights</em></p>
+</div>
 
 ---
 
@@ -120,6 +140,16 @@ Currently developing and maintaining learning management systems while teaching 
 - Bridge the gap between complex technical concepts and beginner understanding
 
 **Impact:** Helping bring coding education to communities that traditionally lack access to tech resources.
+
+<div align="center">
+<img src="images/dashboard-to-one-of-our-popular-courses.png" alt="Course Dashboard Analytics" width="800"/>
+<p><em>Course dashboard showing engagement metrics for one of our most popular coding and robotics programs</em></p>
+</div>
+
+<div align="center">
+<img src="images/course-from-scratch.png" alt="Course Development Process" width="600"/>
+<p><em>Building educational content from scratch - designing curriculum that bridges theory with hands-on practice</em></p>
+</div>
 
 ---
 
@@ -195,6 +225,11 @@ Professional QR code generation tool with file output and URL encoding capabilit
 - **Progressive Skill Building**: From HTML fundamentals to advanced Node.js applications
 - **Real-World Projects**: Building production-ready applications with modern best practices
 
+<div align="center">
+<img src="images/govtech-hackathon2025.jpg" alt="GovTech Hackathon 2025 Participation" width="600"/>
+<p><em>Participating in GovTech Hackathon 2025 - applying EdTech expertise to government innovation challenges</em></p>
+</div>
+
 ---
 
 ## What I'm Currently Working On
@@ -203,6 +238,16 @@ Professional QR code generation tool with file output and URL encoding capabilit
 - **Current LMS Work**: Maintaining and developing learning platform for coding/robotics education
 - **Student Impact**: Teaching remote students with focus on underserved communities
 - **Platform Reliability**: Implementing robust offline/online sync for distributed learning
+
+<div align="center">
+<img src="images/online-class-in-session.png" alt="Live Online Coding Class" width="700"/>
+<p><em>Online coding class in session - demonstrating interactive teaching methods for remote students</em></p>
+</div>
+
+<div align="center">
+<img src="images/Packet Tracer Demo-Simple Lan.gif" alt="Network Engineering Education" width="600"/>
+<p><em>Teaching network fundamentals using Cisco Packet Tracer - bridging networking concepts with EdTech delivery</em></p>
+</div>
 
 ### **Next Big EdTech Project: Enhanced Kolibri Platform**
 Planning a major modification of the Kolibri learning platform to create:
@@ -217,6 +262,11 @@ Planning a major modification of the Kolibri learning platform to create:
 - **Current Focus**: React.js for modern frontend development
 - **Growing**: Del IT+Web client portfolio and service offerings
 - **Planning**: Open-source contributions to developer tools and utilities
+
+<div align="center">
+<img src="images/generating-api-keys-for-google-integration.png" alt="Google API Integration Setup" width="700"/>
+<p><em>Setting up Google API integrations for enhanced learning platform functionality and third-party service connectivity</em></p>
+</div>
 
 ---
 
