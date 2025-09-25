@@ -186,7 +186,7 @@ Dynamic band name generator using EJS templating with modern UI design and respo
 
 - **Tech Stack**: Node.js, Express, EJS, Bootstrap
 - **Features**: Random name generation, responsive design, modular templates
-- **Code**: [View Source](https://github.com/niyidukunda/webDev/tree/main/Backend/4.4%20Band%20Generator%20Project)
+- **Live Demo**: [Run Locally](https://github.com/niyidukunda/webDev/tree/main/Backend/4.4%20Band%20Generator%20Project#-quick-start) | **Code**: [View Source](https://github.com/niyidukunda/webDev/tree/main/Backend/4.4%20Band%20Generator%20Project)
 
 ### [Authentication System](https://github.com/niyidukunda/webDev/tree/main/Backend/3.5%20Secrets%20Project)
 **Secure Login Portal | Middleware Implementation**
@@ -196,7 +196,7 @@ Comprehensive authentication system with password validation and session managem
 - **Tech Stack**: Node.js, Express, Custom Middleware
 - **Features**: Secure authentication, session handling, input validation
 - **Security**: Password hashing, route protection, CSRF prevention
-- **Code**: [View Source](https://github.com/niyidukunda/webDev/tree/main/Backend/3.5%20Secrets%20Project)
+- **Live Demo**: [Try Authentication](https://github.com/niyidukunda/webDev/tree/main/Backend/3.5%20Secrets%20Project#-live-demo) | **Code**: [View Source](https://github.com/niyidukunda/webDev/tree/main/Backend/3.5%20Secrets%20Project)
 
 ### [QR Code Generator](https://github.com/niyidukunda/webDev/tree/main/Backend/2.4%20QR%20Code%20Project)
 **Utility Application | NPM Integration**
@@ -206,7 +206,7 @@ Professional QR code generation tool with file output and URL encoding capabilit
 - **Tech Stack**: Node.js, NPM packages, File System operations
 - **Features**: URL encoding, SVG/PNG export, file management
 - **Use Cases**: Marketing materials, contact cards, website links
-- **Code**: [View Source](https://github.com/niyidukunda/webDev/tree/main/Backend/2.4%20QR%20Code%20Project)
+- **CLI Demo**: [Run Generator](https://github.com/niyidukunda/webDev/tree/main/Backend/2.4%20QR%20Code%20Project#-quick-start) | **Code**: [View Source](https://github.com/niyidukunda/webDev/tree/main/Backend/2.4%20QR%20Code%20Project)
 
 ---
 
