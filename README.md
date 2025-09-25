@@ -21,8 +21,10 @@
 **Daily work:** Building and maintaining learning management systems while teaching **coding and robotics** to students from remote and underserved backgrounds.
 
 <div align="center">
-<img src="images/server-side-LMS-list-of-published-courses.png" alt="LMS Course Management Interface" width="800"/>
-<p><em>Server-side LMS interface showing published coding and robotics courses I've developed and maintain</em></p>
+<a href="images/server-side-LMS-list-of-published-courses.png" target="_blank">
+<img src="images/server-side-LMS-list-of-published-courses.png" alt="LMS Course Management Interface" width="500"/>
+</a>
+<p><em>📸 Server-side LMS interface showing published coding and robotics courses I've developed and maintain (click to enlarge)</em></p>
 </div>
 
 **Technical responsibilities:**
@@ -33,8 +35,10 @@
 - Ensure platform reliability for distributed learning
 
 <div align="center">
-<img src="images/integration-with-google-classroom.png" alt="Google Classroom Integration" width="600"/>
-<p><em>Google Classroom integration for seamless learning management across platforms</em></p>
+<a href="images/integration-with-google-classroom.png" target="_blank">
+<img src="images/integration-with-google-classroom.png" alt="Google Classroom Integration" width="400"/>
+</a>
+<p><em>🔗 Google Classroom integration for seamless learning management across platforms (click to enlarge)</em></p>
 </div>
 
 **Teaching responsibilities:**
@@ -44,8 +48,10 @@
 - Support students with diverse technical backgrounds
 
 <div align="center">
-<img src="images/online-session-demo.gif" alt="Live Online Teaching Session" width="700"/>
-<p><em>Live coding session demonstrating interactive teaching methodology for remote students</em></p>
+<a href="images/online-session-demo.gif" target="_blank">
+<img src="images/online-session-demo.gif" alt="Live Online Teaching Session" width="450"/>
+</a>
+<p><em>🎥 Live coding session demonstrating interactive teaching methodology for remote students (click to enlarge)</em></p>
 </div>
 
 **Real-world insight:** This combination gives me unique perspective on what educators and students actually need from learning platforms - not just what sounds good in requirements docs.
@@ -65,8 +71,10 @@
 - **Teaching Communication Skills**: I can explain technical concepts to both developers and educators
 
 <div align="center">
-<img src="images/team-collaboration.png" alt="Collaborative EdTech Development" width="700"/>
-<p><em>Team collaboration on educational platform development - combining technical expertise with pedagogical insights</em></p>
+<a href="images/team-collaboration.png" target="_blank">
+<img src="images/team-collaboration.png" alt="Collaborative EdTech Development" width="450"/>
+</a>
+<p><em>🤝 Team collaboration on educational platform development - combining technical expertise with pedagogical insights (click to enlarge)</em></p>
 </div>
 
 ---
@@ -142,13 +150,17 @@ Currently developing and maintaining learning management systems while teaching 
 **Impact:** Helping bring coding education to communities that traditionally lack access to tech resources.
 
 <div align="center">
-<img src="images/dashboard-to-one-of-our-popular-courses.png" alt="Course Dashboard Analytics" width="800"/>
-<p><em>Course dashboard showing engagement metrics for one of our most popular coding and robotics programs</em></p>
+<a href="images/dashboard-to-one-of-our-popular-courses.png" target="_blank">
+<img src="images/dashboard-to-one-of-our-popular-courses.png" alt="Course Dashboard Analytics" width="500"/>
+</a>
+<p><em>📊 Course dashboard showing engagement metrics for one of our most popular coding and robotics programs (click to enlarge)</em></p>
 </div>
 
 <div align="center">
-<img src="images/course-from-scratch.png" alt="Course Development Process" width="600"/>
-<p><em>Building educational content from scratch - designing curriculum that bridges theory with hands-on practice</em></p>
+<a href="images/course-from-scratch.png" target="_blank">
+<img src="images/course-from-scratch.png" alt="Course Development Process" width="400"/>
+</a>
+<p><em>🛠️ Building educational content from scratch - designing curriculum that bridges theory with hands-on practice (click to enlarge)</em></p>
 </div>
 
 ---
@@ -226,8 +238,10 @@ Professional QR code generation tool with file output and URL encoding capabilit
 - **Real-World Projects**: Building production-ready applications with modern best practices
 
 <div align="center">
-<img src="images/govtech-hackathon2025.jpg" alt="GovTech Hackathon 2025 Participation" width="600"/>
-<p><em>Participating in GovTech Hackathon 2025 - applying EdTech expertise to government innovation challenges</em></p>
+<a href="images/govtech-hackathon2025.jpg" target="_blank">
+<img src="images/govtech-hackathon2025.jpg" alt="GovTech Hackathon 2025 Participation" width="400"/>
+</a>
+<p><em>🏆 Participating in GovTech Hackathon 2025 - applying EdTech expertise to government innovation challenges (click to enlarge)</em></p>
 </div>
 
 ---
@@ -240,13 +254,17 @@ Professional QR code generation tool with file output and URL encoding capabilit
 - **Platform Reliability**: Implementing robust offline/online sync for distributed learning
 
 <div align="center">
-<img src="images/online-class-in-session.png" alt="Live Online Coding Class" width="700"/>
-<p><em>Online coding class in session - demonstrating interactive teaching methods for remote students</em></p>
+<a href="images/online-class-in-session.png" target="_blank">
+<img src="images/online-class-in-session.png" alt="Live Online Coding Class" width="450"/>
+</a>
+<p><em>👨‍🏫 Online coding class in session - demonstrating interactive teaching methods for remote students (click to enlarge)</em></p>
 </div>
 
 <div align="center">
-<img src="images/Packet Tracer Demo-Simple Lan.gif" alt="Network Engineering Education" width="600"/>
-<p><em>Teaching network fundamentals using Cisco Packet Tracer - bridging networking concepts with EdTech delivery</em></p>
+<a href="images/Packet Tracer Demo-Simple Lan.gif" target="_blank">
+<img src="images/Packet Tracer Demo-Simple Lan.gif" alt="Network Engineering Education" width="400"/>
+</a>
+<p><em>🌐 Teaching network fundamentals using Cisco Packet Tracer - bridging networking concepts with EdTech delivery (click to enlarge)</em></p>
 </div>
 
 ### **Next Big EdTech Project: Enhanced Kolibri Platform**
@@ -264,8 +282,10 @@ Planning a major modification of the Kolibri learning platform to create:
 - **Planning**: Open-source contributions to developer tools and utilities
 
 <div align="center">
-<img src="images/generating-api-keys-for-google-integration.png" alt="Google API Integration Setup" width="700"/>
-<p><em>Setting up Google API integrations for enhanced learning platform functionality and third-party service connectivity</em></p>
+<a href="images/generating-api-keys-for-google-integration.png" target="_blank">
+<img src="images/generating-api-keys-for-google-integration.png" alt="Google API Integration Setup" width="450"/>
+</a>
+<p><em>⚙️ Setting up Google API integrations for enhanced learning platform functionality and third-party service connectivity (click to enlarge)</em></p>
 </div>
 
 ---
