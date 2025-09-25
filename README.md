@@ -1,8 +1,8 @@
 # Hey, I'm Fidel
 
-## EdTech Full-Stack Developer | Building Learning Platforms That Actually Work
+## Full-Stack Developer & Network Engineer | Specializing in Educational Technology
 
-> *"I build educational technology that works in the real world - combining network engineering reliability with full-stack development skills, while actually teaching students every day."*
+> *"I build learning platforms that work in the real world - combining network engineering reliability with comprehensive web development skills, while actually teaching students every day."*
 
 <div align="center">
 
@@ -15,10 +15,10 @@
 
 ---
 
-## Current EdTech Experience
+## Current Educational Technology Experience
 
-### **LMS Platform Developer & Technical Facilitator**
-**Daily work:** Building and maintaining learning management systems while teaching **coding and robotics** to students from remote and underserved backgrounds.
+### **Learning Platform Developer & Technical Facilitator**
+**Daily work:** Building and maintaining educational software while teaching **coding and robotics** to students from remote and underserved backgrounds.
 
 <div align="center">
 <a href="images/server-side-LMS-list-of-published-courses.png" target="_blank">
@@ -58,13 +58,13 @@
 
 ---
 
-## What Makes Me Different in EdTech
+## What Makes Me Different in Educational Technology
 
-**Most EdTech developers** build platforms but never use them to teach.  
+**Most learning platform developers** build systems but never use them to teach.  
 **Most educators** understand learning but can't build the technical solutions.  
-**I do both** - and bring network engineering reliability thinking to educational technology.
+**I do both** - and bring network engineering reliability thinking to digital learning environments.
 
-### My EdTech Advantage:
+### My Educational Technology Advantage:
 - **User Experience Reality**: I see what actually works (and breaks) in real classrooms
 - **Network Engineering Mindset**: I build platforms that work reliably in challenging conditions
 - **Full-Stack Capabilities**: I can handle everything from database optimization to user interface design
@@ -81,15 +81,15 @@
 
 ## About Me
 
-I'm an **EdTech Full-Stack Developer** currently building and maintaining learning management systems while teaching **coding and robotics** to students from remote backgrounds. I bring **CCNA** and **CompTIA Security+** network engineering experience to educational platform development.
+I'm a **Full-Stack Developer and Network Engineer** specializing in educational technology, currently building and maintaining learning management systems while teaching **coding and robotics** to students from remote backgrounds. I bring **CCNA** and **CompTIA Security+** network engineering experience to learning platform development.
 
-**What makes me unique?** I don't just build learning platforms - I use them daily to teach real students. This gives me insights into what actually works in education technology, not just what looks good in demos.
+**What makes me unique?** I don't just build educational software - I use it daily to teach real students. This gives me insights into what actually works in online education, not just what looks good in demos.
 
-**Current focus:** Developing robust, scalable learning platforms that work reliably even in challenging network conditions - because education can't afford downtime.
+**Current focus:** Developing robust, scalable digital learning environments that work reliably even in challenging network conditions - because education can't afford downtime.
 
 ```javascript
 const fidel = {
-    specialization: "EdTech Full-Stack Development",
+    specialization: "Educational Technology & Full-Stack Development",
     code: ["JavaScript", "HTML", "CSS", "Node.js", "Python", "SQL"],
     frameworks: ["Express.js", "React", "EJS", "Bootstrap", "jQuery"],
     databases: ["MongoDB", "MySQL", "SQLite"],
@@ -173,9 +173,9 @@ Currently developing and maintaining learning management systems while teaching 
 A blog application with intelligent fallback systems that demonstrates the reliability principles I apply to educational platforms. When students are learning remotely, platforms can't afford to be down.
 
 - **Tech Stack**: Node.js, Express, MongoDB Atlas, EJS, Mongoose
-- **EdTech Applications**: Dual-storage for offline capability, auto-reconnection for unreliable networks
+- **Educational Applications**: Dual-storage for offline capability, auto-reconnection for unreliable networks
 - **Learning Platform Features**: User content management, responsive design, status notifications
-- **Reliability Engineering**: Built with the same failover logic I use in educational systems
+- **Reliability Engineering**: Built with the same failover logic I use in academic technology systems
 - **Production Ready**: Environment configured, deployment-ready architecture
 - **Code**: [View Source](https://github.com/niyidukunda/webDev/tree/main/Backend/BLOG%20WebApp)
 
@@ -241,17 +241,17 @@ Professional QR code generation tool with file output and URL encoding capabilit
 <a href="images/govtech-hackathon2025.jpg" target="_blank">
 <img src="images/govtech-hackathon2025.jpg" alt="GovTech Hackathon 2025 Participation" width="400"/>
 </a>
-<p><em>🏆 Participating in GovTech Hackathon 2025 - applying EdTech expertise to government innovation challenges (click to enlarge)</em></p>
+<p><em>🏆 Participating in GovTech Hackathon 2025 - applying educational technology expertise to government innovation challenges (click to enlarge)</em></p>
 </div>
 
 ---
 
 ## What I'm Currently Working On
 
-### **Active EdTech Projects**
-- **Current LMS Work**: Maintaining and developing learning platform for coding/robotics education
+### **Active Educational Technology Projects**
+- **Current Learning Platform Work**: Maintaining and developing systems for coding/robotics education
 - **Student Impact**: Teaching remote students with focus on underserved communities
-- **Platform Reliability**: Implementing robust offline/online sync for distributed learning
+- **Platform Reliability**: Implementing robust offline/online sync for distributed learning environments
 
 <div align="center">
 <a href="images/online-class-in-session.png" target="_blank">
@@ -264,10 +264,10 @@ Professional QR code generation tool with file output and URL encoding capabilit
 <a href="images/Packet Tracer Demo-Simple Lan.gif" target="_blank">
 <img src="images/Packet Tracer Demo-Simple Lan.gif" alt="Network Engineering Education" width="400"/>
 </a>
-<p><em>🌐 Teaching network fundamentals using Cisco Packet Tracer - bridging networking concepts with EdTech delivery (click to enlarge)</em></p>
+<p><em>🌐 Teaching network fundamentals using Cisco Packet Tracer - bridging networking concepts with digital learning delivery (click to enlarge)</em></p>
 </div>
 
-### **Next Big EdTech Project: Enhanced Kolibri Platform**
+### **Next Big Educational Innovation: Enhanced Kolibri Platform**
 Planning a major modification of the Kolibri learning platform to create:
 - **Offline-First Architecture**: Downloadable learning modules that work without internet
 - **Smart Content Sync**: Intelligent synchronization with online resources when available
@@ -275,8 +275,8 @@ Planning a major modification of the Kolibri learning platform to create:
 - **Open Source Impact**: Contributing to global education accessibility
 
 ### **Technical Development**
-- **Learning React**: Completing full-stack course with focus on interactive learning interfaces
-- **AWS + Kubernetes**: Building cloud-native architecture skills for scalable EdTech platforms
+- **Learning React**: Completing comprehensive web development course with focus on interactive learning interfaces
+- **AWS + Kubernetes**: Building cloud-native architecture skills for scalable educational platforms
 - **Current Focus**: React.js for modern frontend development
 - **Growing**: Del IT+Web client portfolio and service offerings
 - **Planning**: Open-source contributions to developer tools and utilities
