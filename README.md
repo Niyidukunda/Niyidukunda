@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fidel-niyidukunda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niyidukunda)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niyidukunda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://delitweb.co.za)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fidel@delitweb.co.za)
+[![Personal Site](https://img.shields.io/badge/Personal%20Site-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://fidel-devprojects.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:finiyid@gmail.com)
 
 </div>
 
@@ -303,7 +303,7 @@ I'm always interested in connecting with fellow full-stack developers, potential
 ### **Get In Touch:**
 - **Business Inquiries**: [Del IT+Web](https://delitweb.co.za)
 - **Professional Network**: [LinkedIn](https://linkedin.com/in/fidel-niyidukunda)
-- **Direct Contact**: fidel@delitweb.co.za
+- **Direct Contact**: finiyid@gmail.com
 - **WhatsApp Business**: +27 677188232
 
 ---
