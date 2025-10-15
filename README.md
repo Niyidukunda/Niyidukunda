@@ -302,7 +302,7 @@ I'm always interested in connecting with fellow full-stack developers, potential
 
 ### **Get In Touch:**
 - **Business Inquiries**: [Del IT+Web](https://delitweb.co.za)
-- **Professional Network**: [LinkedIn](https://linkedin.com/in/fidel-niyidukunda)
+- **Professional Network**: [LinkedIn](https://linkedin.com/in/niyidukunda)
 - **Direct Contact**: finiyid@gmail.com
 - **WhatsApp Business**: +27 677188232
 
